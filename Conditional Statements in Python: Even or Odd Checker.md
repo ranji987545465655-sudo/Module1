@@ -22,13 +22,18 @@ End the program.
 🧾 Program
 
 a = int(input("Enter a number: "))
+
 if a % 2 == 0:
+
     print("EVEN")
+    
 else:
+
     print("ODD")
     
 
 Output
+
 image
 
 Result
