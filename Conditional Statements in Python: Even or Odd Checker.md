@@ -33,7 +33,8 @@ else:
 
 Output
 
-image
+<img width="1285" height="167" alt="image" src="https://github.com/user-attachments/assets/3a7b2e93-9cad-4d6a-abda-4ede3c4fc60d" />
+
 
 Result
 
